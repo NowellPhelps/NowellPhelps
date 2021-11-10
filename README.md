@@ -1,7 +1,7 @@
 Hi, I’m Nowell. I graduated from Oxford with a MMath in Mathematics in July 2021. My research experience includes looking at:
 - A coevolutionary hypergraph model for opinion dynamics
 - Seperating dyadic and higher-order influence on adoption of a microfinance scheme in social networks of Indian Villages
-- Methods of constructing spatial networks 
+- Methods of constructing spatial networks from household location data
 
 I'm interested in networks and hypergraphs and their applications. You can contact me at nowell.phelps@gmail.com, or on twitter <a href="https://twitter.com/nowell_phelps">@nowell_phelps<a>.
 Feel free to reach out with interesting projects!
