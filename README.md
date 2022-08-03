@@ -1,9 +1,9 @@
-Hi, I’m Nowell. I graduated from Oxford with a MMath in Mathematics in July 2021. My research experience includes looking at:
-- A coevolutionary hypergraph model for opinion dynamics
+Hi, I’m Nowell. I'm currently working as a Research Assistant in Epidemiology and Population Health at Imperial College London for <a href="https://ncdrisc.org/">NCD-RisC<a> and I graduated from Oxford with a MMath in Mathematics in July 2021. My research experience includes looking at:
+- A coevolutionary hypergraph model for opinion dynamics 
 - Separating dyadic and higher-order influence on adoption of a microfinance in rural Indian Villages
 - Methods of constructing spatial networks from household location data
 
-I'm interested in networks and hypergraphs and their applications. You can contact me at nowell.phelps@gmail.com, or on twitter <a href="https://twitter.com/nowell_phelps">@nowell_phelps<a>.
+I'm broadly interested in modelling, and more specifically in epidemiology, and networks and complexity. You can contact me at nowell.phelps@gmail.com, or on twitter <a href="https://twitter.com/nowell_phelps">@nowell_phelps<a>.
 Feel free to reach out with interesting projects!
 
 <!---
