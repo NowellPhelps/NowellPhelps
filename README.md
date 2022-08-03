@@ -4,7 +4,7 @@ Hi, I’m Nowell. I'm currently working as a Research Assistant in Epidemiology 
 - Attempting to separate dyadic and higher-order influence on adoption of a microfinance in rural Indian Villages
 
 
-I'm broadly in epidemiology, data, networks, and complexity. You can contact me at nowell.phelps@gmail.com, or on twitter <a href="https://twitter.com/nowell_phelps">@PhelpsNowell<a>.
+I'm broadly in epidemiology, data, networks, and complexity. You can contact me at nowell.phelps@gmail.com, or <a href="https://twitter.com/nowell_phelps">@PhelpsNowell<a>.
 
 <!---
 NowellPhelps/NowellPhelps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
