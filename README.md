@@ -3,7 +3,7 @@ Hi, I’m Nowell. I'm currently working as a Research Assistant in Epidemiology 
 - Separating dyadic and higher-order influence on adoption of a microfinance in rural Indian Villages
 - Methods of constructing spatial networks from household location data
 
-I'm broadly interested in modelling, and more specifically in epidemiology, and networks and complexity. You can contact me at nowell.phelps@gmail.com, or on twitter <a href="https://twitter.com/nowell_phelps">@nowell_phelps<a>.
+I'm broadly interested in modelling, and more specifically in epidemiology, and networks and complexity. You can contact me at nowell.phelps@gmail.com, or on twitter <a href="https://twitter.com/nowell_phelps">@PhelpsNowell<a>.
 Feel free to reach out with interesting projects!
 
 <!---
