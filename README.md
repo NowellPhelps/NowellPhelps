@@ -1,1 +1,1 @@
-Contact: nowell.phelps at gmail.com
+Contact: nphelps2 at jh.edu
